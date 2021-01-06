@@ -2,7 +2,7 @@
 
 Handy currency converter actually working
 with **static** exchange rates  
-For actual exchange curses for CZK visit 
+For actual exchange rates for CZK visit 
 [this site](https://www.cnb.cz/en/financial-markets/foreign-exchange-market/central-bank-exchange-rate-fixing/central-bank-exchange-rate-fixing/)
 .
 
