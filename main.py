@@ -7,7 +7,7 @@ EURO_TO_CZK = 26.15
 
 def radio_used():
     """
-    function that checking which radiobutton was selected (which currency is active)
+    function that checks which radiobutton was selected (which currency is active)
     according to selected currency, function calculate with actual exchange change rates
     """
     if entry.get():
