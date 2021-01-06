@@ -19,6 +19,8 @@ to run and see my app on **repl.it**.
 
 ---
 
+### GUI   
+   
 ![](images/main_window.png)
 
 
