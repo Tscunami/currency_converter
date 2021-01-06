@@ -17,6 +17,8 @@ For actual exchange rates for CZK visit
 [Click here](https://repl.it/join/xzxlaybi-luknplava)
 to run and see my app on **repl.it**.
 
+---
 
+![](images/main_window.png)
 
 
